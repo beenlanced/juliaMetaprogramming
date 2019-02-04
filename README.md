@@ -1,7 +1,7 @@
 # intro2Metaprogramming
 
 This repository contains code examples, image files, IJulia notebooks and other general materials related
-to introducing Julia programming language's Metaprogramming, Macros, and Generated Functions, discussing.<br>
+to introducing Julia programming language's Metaprogramming, Macros, and Generated Functions.<br>
 
 Good luck and hope the material can be of use. <br>
 
